@@ -1,6 +1,14 @@
 {
   "name": "@scraye/eslint-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scraye/eslint-plugin-scraye.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scraye/eslint-plugin-scraye/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
