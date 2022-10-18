@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["./src/typescript", "./src/sort", "./src/prettier"],
+  extends: ["./src/typescript", "./src/prettier"],
 };

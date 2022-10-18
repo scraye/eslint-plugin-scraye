@@ -1,14 +1,28 @@
 {
   "name": "@scraye/eslint-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scraye/eslint-plugin-scraye.git"
   },
-  "license": "ISC",
+  "description": "Scraye's eslint config.",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-plugin",
+    "prettier",
+    "typescript"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "@scraye:registry": "https://registry.npmjs.org"
+  },
+  "author": "Scraye Technologies Ltd.",
   "bugs": {
     "url": "https://github.com/scraye/eslint-plugin-scraye/issues"
   },
+  "homepage": "https://github.com/scraye/eslint-plugin-scraye/blob/master/README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
